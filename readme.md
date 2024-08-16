@@ -28,7 +28,7 @@ This Python script is an AWS Lambda function that checks weather alerts from the
 ### 1. Clone the Repository | 克隆倉庫
 
 ```bash
-git clone https://github.com/tbdavid2019/multi-platform-weather-alert-AWS_Lambda.git
+git clone https://github.com/tbdavid2019/weather-alert-bot_Lambda.git
 cd multi-platform-weather-alert-AWS_Lambda
 ```
 
